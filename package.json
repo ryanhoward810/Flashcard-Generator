@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "backend for a basic flashcard application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanhoward810/Flashcard-Generator.git"
+  },
+  "author": "Ryan Howard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanhoward810/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/ryanhoward810/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  }
+}
